@@ -1,2 +1,2 @@
 # Basic-Projects
-A folder for simple projects that are more for getting used to new methods than any impactful data science. 
+A folder for my projects that were done to learn new technologies and methods. None of this work was done professionally or for any private data for clients. 
